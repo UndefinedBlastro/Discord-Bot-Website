@@ -38,8 +38,8 @@ const config = {
     {
        name: "Leveling",
       description:
-        "Welcomer is the person who greet the new person in an unique and great way",
-      logo: <SiWelcometothejungle className="h-10 w-10" />,
+        "Spice up your server by our overhauled leveling system",
+      logo: <GiTrophyCup className="h-10 w-10" />,
     // You can added more features if need add
   ],
   //Bot Features
