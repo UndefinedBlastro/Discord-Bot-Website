@@ -1,9 +1,11 @@
 import { BsFacebook, BsYoutube } from "react-icons/bs";
-import { CgCrown } from "react-icons/cg";
+import { IoRocketSharp } from "react-icons/io5";
 import { FaDiscord } from "react-icons/fa";
-import { MdAddModerator } from "react-icons/md";
-import { SiProbot } from "react-icons/si";
-import { TbMessage2Code } from "react-icons/tb";
+import { MdOutlineAddModerator } from "react-icons/md";
+import { GiTrophyCup } from "react-icons/gi";
+import { BiSolidMessageSquareEdit } from "react-icons/bi";
+import { SiWelcometothejungle } from "react-icons/si";
+import { SiFunimation } from "react-icons/si";
 const config = {
   name: "Ayra",
   //BotName
@@ -40,6 +42,13 @@ const config = {
       description:
         "Spice up your server by our overhauled leveling system",
       logo: <GiTrophyCup className="h-10 w-10" />,
+    },
+    {
+      name: "Fun, Actions and More..",
+      description:
+        "Replace many bots with ayra and enjoy",
+      logo: <SiFunimation  className="h-10 w-10" />,
+    },
     // You can added more features if need add
   ],
   //Bot Features
