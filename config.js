@@ -15,7 +15,7 @@ const config = {
       name: "Moderation",
       description:
         "Moderation is the process of eliminating or lessening extremes.",
-      logo: <https://images-ext-2.discordapp.net/external/TzwgupGYM3oe5aohvRZ3CkyLjdwTtTQaVOLm5yQR4ek/https/cdn.discordapp.com/emojis/1177153034107748432.png?format=webp&width=160&height=160 className="h-10 w-10" />,
+      logo: <MdOutlineAddModerator className="h-10 w-10" />,
     },
     {
       name: "99% Uptime",
