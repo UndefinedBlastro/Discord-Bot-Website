@@ -35,18 +35,6 @@ const config = {
         "Welcomer is the person who greet the new person in an unique and great way",
       logo: <CgCrown className="h-10 w-10" />,
     },
-    {
-      name: "Leveling",
-      description:
-        "Welcomer is the person who greet the new person in an unique and great way",
-      logo: <CgCrown className="h-10 w-10" />,
-    },
-    {
-      name: "Fun, Actions and more",
-      description:
-        "Welcomer is the person who greet the new person in an unique and great way",
-      logo: <CgCrown className="h-10 w-10" />,
-    },
     // You can added more features if need add
   ],
   //Bot Features
