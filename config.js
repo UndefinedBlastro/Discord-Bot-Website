@@ -1,11 +1,11 @@
-import { BsFacebook, BsYoutube } from "react-icons/bs";
-import { IoRocketSharp } from "react-icons/io5";
-import { FaDiscord } from "react-icons/fa";
-import { MdOutlineAddModerator } from "react-icons/md";
-import { GiTrophyCup } from "react-icons/gi";
-import { BiSolidMessageSquareEdit } from "react-icons/bi";
-import { SiWelcometothejungle } from "react-icons/si";
-import { SiFunimation } from "react-icons/si";
+import {BsFacebook, BsYoutube } from "react-icons/bs";
+import {IoRocketSharp} from "react-icons/io5";
+import {FaDiscord} from "react-icons/fa";
+import {MdOutlineAddModerator} from "react-icons/md";
+import {GiTrophyCup} from "react-icons/gi";
+import {BiSolidMessageSquareEdit} from "react-icons/bi";
+import {SiWelcometothejungle} from "react-icons/si";
+import {SiFunimation} from "react-icons/si";
 const config = {
   name: "Ayra",
   //BotName
