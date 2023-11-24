@@ -15,26 +15,31 @@ const config = {
       name: "Moderation",
       description:
         "Moderation is the process of eliminating or lessening extremes.",
-      logo: <MdAddModerator className="h-10 w-10" />,
+      logo: <https://images-ext-2.discordapp.net/external/TzwgupGYM3oe5aohvRZ3CkyLjdwTtTQaVOLm5yQR4ek/https/cdn.discordapp.com/emojis/1177153034107748432.png?format=webp&width=160&height=160 className="h-10 w-10" />,
     },
     {
       name: "99% Uptime",
       description:
         "Uptime is a measure of system reliability, expressed as the percentage of time a machine, typically a computer.",
-      logo: <SiProbot className="h-10 w-10" />,
+      logo: <IoRocketSharp className="h-10 w-10" />,
     },
     {
       name: "Automation",
       description:
-        "Automation describes a wide range of technologies that reduce  human intervention in processes.",
-      logo: <TbMessage2Code className="h-10 w-10" />,
+        "Want to automate your posts? We got you",
+      logo: <BiSolidMessageSquareEdit className="h-10 w-10" />,
     },
     {
       name: "Welcomer",
       description:
-        "Welcomer is the person who greet the new person in an unique and great way",
-      logo: <CgCrown className="h-10 w-10" />,
+        "Welcome new members in your style",
+      logo: <SiWelcometothejungle className="h-10 w-10" />,
     },
+    {
+       name: "Leveling",
+      description:
+        "Welcomer is the person who greet the new person in an unique and great way",
+      logo: <SiWelcometothejungle className="h-10 w-10" />,
     // You can added more features if need add
   ],
   //Bot Features
