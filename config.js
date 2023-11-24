@@ -5,10 +5,10 @@ import { MdAddModerator } from "react-icons/md";
 import { SiProbot } from "react-icons/si";
 import { TbMessage2Code } from "react-icons/tb";
 const config = {
-  name: "ProBot",
+  name: "Ayra",
   //BotName
   inviteLink:
-    "https://discord.com/oauth2/authorize?client_id=879602399067660338&permissions=8&scope=bot&redirect_uri=https://docs.markos.ga&response_type=code",
+    "https://discord.com/oauth2/authorize?client_id=1090567188227817523&permissions=178616284561198&scope=bot&redirect_uri=https://docs.markos.ga&response_type=code",
   //BotInvite Link
   Features: [
     {
@@ -49,17 +49,13 @@ const config = {
   discordLogo: (
     <FaDiscord className="h-10 w-10 text-[#738adb] hover:scale-125 easeIn cursor-pointer" />
   ),
-  youTubeLogo: (
-    <BsYoutube className="h-10 w-10 text-[#FF0000] hover:scale-125 easeIn cursor-pointer" />
-  ),
-  //----------------------------------------------------------------
+   //----------------------------------------------------------------
   // Your social handle links
-  githubLink: "https://github.com/mohitmimani",
+  githubLink: "https://github.com/UndefinedBlastro",
   twitterLink: "https://twitter.com",
-  mediumLink: "https://medium.com/",
   facebookLink: "https://facebook.com",
-  discordLink: "https://discord.com",
-  youtubeLink: "https://www.youtube.com/channel/UCfhRHeex9lU0ZAVJot6Z2ZQ",
+  discordLink: "https://discord.gg/ayra",
+
 };
 
 export default config;
